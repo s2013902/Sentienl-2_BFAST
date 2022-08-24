@@ -1,5 +1,5 @@
 # Sentienl-2 BFAST
-This contains the original NDVI data extracted from Sentinel-2 time series and the R code to implement BFAST to detect forest change.
+This contains a sample of original NDVI data extracted from Sentinel-2 time series and the R code to implement BFAST to detect forest change.
 
 ## bfastlite_geedata.R
 
