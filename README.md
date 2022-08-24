@@ -7,7 +7,7 @@ It contains the function to adjust the data format and implement BFAST lite. It 
 
 The data should be written in a .csv file and read as:
 
-    args[1] <- "ndvi717.csv"
+    args[1] <- "ndvi.csv"
     
 It should be ouput as:
 
